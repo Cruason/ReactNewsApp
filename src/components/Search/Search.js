@@ -13,7 +13,7 @@ import { Container, Header, card } from "./index";
 function Search() {
   const [searchQuery, setSearchQuery] = useState("");
   const [totalArticles, setTotalArticle] = useState(0);
-  const { articles, loading } = useSelector((state) => state.search);
+  const { articles, loading } = useSelector((state) => state.search) ;
   const { query } = useParams();
 
   const dispatch = useDispatch();
