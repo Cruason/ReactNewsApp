@@ -5,7 +5,7 @@ export const Header = styled.h1`
   margin-top: 120px;
   color: #fff;
   margin-bottom: 20px;
-  @media screen and (max-width: 425px) {
+  @media screen and (max-width: 425px) { 
     font-size: 30px;
   }
 `;
