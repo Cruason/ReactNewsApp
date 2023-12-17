@@ -4,7 +4,7 @@ import NavBar from "./components/NavBar/NavBar";
 import News from "./components/News/News";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { router } from "./config/config";
-import Search from "./components/Search/Search";
+import Search from "./components/Search/Search" ;
 
 function App() {
   return (
