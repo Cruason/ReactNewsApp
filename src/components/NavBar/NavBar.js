@@ -52,7 +52,7 @@ function NavBar() {
         expanded={!isCollapsed}
       >
         <Navbar.Brand style={navBrand} href="/">
-          <img src={logoImage} alt="Logo" style={logo} />
+          <img src={logoImage} alt="Logo" style={logo}  />
           {navbarBrand}
         </Navbar.Brand>
         {isCollapsed && (
