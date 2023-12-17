@@ -13,7 +13,7 @@ export const navs = [
   { nav: "Science", page: "/categories/science" },
   { nav: "Health", page: "/categories/health" },
   { nav: "Entertainment", page: "/categories/entertainment" },
-  { nav: "Technology", page: "/categories/technology" },
+  { nav: "Technology", page: "/categories/technology" } ,
 ];
 
 export const router = [
