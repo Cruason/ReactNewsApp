@@ -8,7 +8,7 @@ import { Provider } from "react-redux";
 import { store } from "./store/store";
 
 const root = document.getElementById("root");
-const rootElement = createRoot(root);
+const rootElement = createRoot(root) ;
 
 rootElement.render(
   <React.StrictMode>
