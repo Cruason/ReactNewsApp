@@ -1,5 +1,5 @@
 export const navBar = {
-  backgroundColor: "rgb(41, 47, 51)",
+  backgroundColor: "#14100f",
   padding: "20px",
   fontSize: "18px",
 };
@@ -7,7 +7,7 @@ export const navBar = {
 export const navBrand = {
   fontSize: "23px",
   marginLeft: "10px",
-  fontWeight: "700"
+  fontWeight: "700",
 };
 
 export const nav = {
@@ -29,6 +29,7 @@ export const formInput = {
   borderRadius: "6px",
   padding: "11px",
   marginLeft: "13px",
+  backgroundColor: "#415366",
 };
 
 export const logo = {
@@ -36,7 +37,7 @@ export const logo = {
 };
 
 export const btnColor = {
-  backgroundColor: "#005abb",
+  backgroundColor: "#f49b3f",
   color: "white",
   fontWeight: "700",
   borderRadius: "6px",

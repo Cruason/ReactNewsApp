@@ -37,7 +37,7 @@ function News(props) {
 
   useEffect(() => {
     updatenews();
-    // eslint-disable-next-line
+    
   }, []);
 
   return (
