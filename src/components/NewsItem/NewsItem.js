@@ -6,7 +6,7 @@ import { card, img, btn, text } from "./index";
 import "./style.css"
 
 function NewsItem(props) {
-  const { imageUrl, alt, description, title, channel, published, urlNews } = props;
+  const { imageUrl, alt, description, title, channel, published, urlNews } = props ;
 
   return (
     <>
