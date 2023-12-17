@@ -2,7 +2,7 @@ export const details = {
   marginBottom: "15px",
 };
 
-export const summarry = {
+export const summarry = { 
   color: "#f5f5f5",
   fontSize: "15px",
 };
