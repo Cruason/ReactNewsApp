@@ -8,7 +8,7 @@ const initialState = {
 
 const searchArticle = (state = initialState, action) => {
   switch (action.type) {
-    case SEARCH_SUCCESS:
+    case SEARCH_SUCCESS :
       return {
         ...state,
         articles: action.payload.articles,
