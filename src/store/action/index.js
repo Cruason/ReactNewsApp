@@ -1,6 +1,6 @@
 import { endpointSearch } from "../../config/api";
 import axios from "axios";
-import { SEARCH_REQUEST, SEARCH_SUCCESS, SEARCH_FAILURE } from "./actionTypes";
+import { SEARCH_REQUEST, SEARCH_SUCCESS, SEARCH_FAILURE } from "./actionTypes" ;
 
 const fetchDataRequest = () => ({
   type: SEARCH_REQUEST,
