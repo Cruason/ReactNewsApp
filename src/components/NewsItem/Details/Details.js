@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { summary, newsChannel, lastUpdate } from "../../../config/config";
+import { summary, newsChannel, lastUpdate } from "../../../config/config" ;
 import { details, summarry, text } from "./index";
 
 function Details(props) {
